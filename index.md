@@ -2,5 +2,5 @@
 
 ## Week 0
 
-[Here] (files/example.html) is my Python examples
+[Here](files/example.html) is my Python examples
 
